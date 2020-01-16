@@ -1,0 +1,13 @@
+/**
+* 要修改的vant的样式放这里
+*/
+.van-cell__title{
+  span{
+    float: left;
+  }
+}
+.searchlistmodule{
+  .van-list{
+    width: 100vw;
+  }
+}
